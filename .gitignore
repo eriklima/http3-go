@@ -16,5 +16,5 @@
 
 # Project files and folders
 **/metrics.csv
-**/server
-**/client
+**/server/server
+**/client/client
