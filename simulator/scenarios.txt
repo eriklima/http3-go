@@ -1,0 +1,5 @@
+simple-p2p --delay=1ms --bandwidth=100Mbps --queue=25
+simple-p2p --delay=100ms --bandwidth=100Mbps --queue=25
+simple-p2p --delay=1ms --bandwidth=10Mbps --queue=25
+simple-p2p --delay=1ms --bandwidth=100Mbps --queue=5
+simple-p2p --delay=100ms --bandwidth=10Mbps --queue=5
