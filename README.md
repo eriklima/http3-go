@@ -1,6 +1,6 @@
-# http3-quic
+# http3-go
 
-Implementação de um cliente e um servidor HTTP3 sobre a camada de transporte QUIC.
+Implementação de um cliente e um servidor HTTP3 em Go, sobre a camada de transporte QUIC.
 
 ## Como Utilizar o QUIC Network Simulator
 
